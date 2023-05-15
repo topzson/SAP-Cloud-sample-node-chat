@@ -1,0 +1,7 @@
+---
+applications:
+- name: chat
+  host: opensap-chat
+  path: .
+  memory: 1024M
+  buildpack: nodejs_buildpack
