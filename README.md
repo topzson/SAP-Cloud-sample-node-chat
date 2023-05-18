@@ -1,7 +1,11 @@
 # SAP-Cloud-sample-node-chat
 This project is demo for learning cloud technology.
+Live Demo on SAP Cloud: https://chat-fantastic-gelada-it.cfapps.us10-001.hana.ondemand.com
+![image](https://github.com/topzson/SAP-Cloud-sample-node-chat/assets/76682932/e4a55875-2a62-4a07-98e9-3f8e08676ce5)
+
 # NodeJS Chat Application
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-sample-node-chat)](https://api.reuse.software/info/github.com/SAP-samples/cloud-sample-node-chat)
+![Uploading image.png…]()
 
 ## Description: 
 This is a simple chat application that is built on NodeJS. It uses socket.io library which enables real-time, event-based communication. It shows how socket.io rooms can be used to create different chat rooms.
